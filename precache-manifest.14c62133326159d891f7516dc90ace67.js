@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3954e5789aaba0d64a8097e65257e7af",
+    "revision": "9e84ce5d742b2c608acd3e6e9cf3d3fa",
     "url": "/react_dynamic-list-of-posts/index.html"
   },
   {
-    "revision": "8fbd6ebe526aaba72c4e",
+    "revision": "49de1f3849d3d155482c",
     "url": "/react_dynamic-list-of-posts/static/css/main.54978215.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_dynamic-list-of-posts/static/js/2.e60569e2.chunk.js"
   },
   {
-    "revision": "8fbd6ebe526aaba72c4e",
-    "url": "/react_dynamic-list-of-posts/static/js/main.f340d578.chunk.js"
+    "revision": "49de1f3849d3d155482c",
+    "url": "/react_dynamic-list-of-posts/static/js/main.39e04fff.chunk.js"
   },
   {
     "revision": "fc988510490290486853",
